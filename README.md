@@ -1,10 +1,13 @@
 # ACUtA
 Analisador e conversor (português) UTF8 para ASCII em Assembly x86-64 
-Projeto realizado no âmbito da cadeira de Arquitetura de Sistemas Comutacionais (FCUL, LEI, 2025/26)
+
+Projeto realizado no âmbito da cadeira de Arquitetura de Sistemas Computacionais (FCUL, LEI, 2025/26)
 
 - Assembly x86 de 64 bits, usando a notação Intel, para o nasm
 
 - Ficheiros fornecidos pelo enunciado original estão em /apoio
+
+- Objetivos de Aprendizagem/Tópicos: manipulação direta de memória, buffers e pointers, operações bitwise (para parsing de UTF-8/ASCII), gestão da pilha/stack na leitura de argumentos e convenções de preparação de registers (calling conventions).
 
 ## Compilar & Linking
 
